@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-20">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="p-value" type="float" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="weight" type="double" />
+    </attributes>
+    <nodes>
+      <node id="AGID00020" label="AGID00020">
+        <attvalues>
+          <attvalue for="0" value="0.20407523510971787" />
+        </attvalues>
+      </node>
+      <node id="AGID00101" label="AGID00101">
+        <attvalues>
+          <attvalue for="0" value="0.11112852664576803" />
+        </attvalues>
+      </node>
+      <node id="AGID00005" label="AGID00005">
+        <attvalues>
+          <attvalue for="0" value="0.15689655172413794" />
+        </attvalues>
+      </node>
+      <node id="AGID00008" label="AGID00008">
+        <attvalues>
+          <attvalue for="0" value="0.08730407523510972" />
+        </attvalues>
+      </node>
+      <node id="AGID00014" label="AGID00014">
+        <attvalues>
+          <attvalue for="0" value="0.09482758620689655" />
+        </attvalues>
+      </node>
+      <node id="AGID00502" label="AGID00502">
+        <attvalues>
+          <attvalue for="0" value="0.10031347962382445" />
+        </attvalues>
+      </node>
+      <node id="AGID02154" label="AGID02154">
+        <attvalues>
+          <attvalue for="0" value="0.17147335423197493" />
+        </attvalues>
+      </node>
+      <node id="AGID00159" label="AGID00159">
+        <attvalues>
+          <attvalue for="0" value="0.13949843260188088" />
+        </attvalues>
+      </node>
+      <node id="AGID00186" label="AGID00186">
+        <attvalues>
+          <attvalue for="0" value="0.13996865203761755" />
+        </attvalues>
+      </node>
+      <node id="AGID00007" label="AGID00007">
+        <attvalues>
+          <attvalue for="0" value="0.1365203761755486" />
+        </attvalues>
+      </node>
+      <node id="AGID00437" label="AGID00437">
+        <attvalues>
+          <attvalue for="0" value="0.1628526645768025" />
+        </attvalues>
+      </node>
+      <node id="AGID00194" label="AGID00194">
+        <attvalues>
+          <attvalue for="0" value="0.11003134796238244" />
+        </attvalues>
+      </node>
+      <node id="AGID00052" label="AGID00052">
+        <attvalues>
+          <attvalue for="0" value="0.14984326018808777" />
+        </attvalues>
+      </node>
+      <node id="AGID02191" label="AGID02191">
+        <attvalues>
+          <attvalue for="0" value="0.12931034482758622" />
+        </attvalues>
+      </node>
+      <node id="AGID02194" label="AGID02194">
+        <attvalues>
+          <attvalue for="0" value="0.1468652037617555" />
+        </attvalues>
+      </node>
+      <node id="AGID00265" label="AGID00265">
+        <attvalues>
+          <attvalue for="0" value="0.14216300940438872" />
+        </attvalues>
+      </node>
+      <node id="AGID00015" label="AGID00015">
+        <attvalues>
+          <attvalue for="0" value="0.08808777429467085" />
+        </attvalues>
+      </node>
+      <node id="AGID00024" label="AGID00024">
+        <attvalues>
+          <attvalue for="0" value="0.17884012539184954" />
+        </attvalues>
+      </node>
+      <node id="AGID00018" label="AGID00018">
+        <attvalues>
+          <attvalue for="0" value="0.0926332288401254" />
+        </attvalues>
+      </node>
+      <node id="AGID00527" label="AGID00527">
+        <attvalues>
+          <attvalue for="0" value="0.13934169278996866" />
+        </attvalues>
+      </node>
+      <node id="AGID00104" label="AGID00104">
+        <attvalues>
+          <attvalue for="0" value="0.07993730407523511" />
+        </attvalues>
+      </node>
+      <node id="AGID00078" label="AGID00078">
+        <attvalues>
+          <attvalue for="0" value="0.12351097178683386" />
+        </attvalues>
+      </node>
+      <node id="AGID00171" label="AGID00171">
+        <attvalues>
+          <attvalue for="0" value="0.13824451410658306" />
+        </attvalues>
+      </node>
+      <node id="AGID00056" label="AGID00056">
+        <attvalues>
+          <attvalue for="0" value="0.095141065830721" />
+        </attvalues>
+      </node>
+      <node id="AGID00124" label="AGID00124">
+        <attvalues>
+          <attvalue for="0" value="0.16394984326018808" />
+        </attvalues>
+      </node>
+      <node id="AGID00149" label="AGID00149">
+        <attvalues>
+          <attvalue for="0" value="0.08401253918495298" />
+        </attvalues>
+      </node>
+      <node id="AGID00105" label="AGID00105">
+        <attvalues>
+          <attvalue for="0" value="0.11896551724137931" />
+        </attvalues>
+      </node>
+      <node id="AGID00058" label="AGID00058">
+        <attvalues>
+          <attvalue for="0" value="0.1336990595611285" />
+        </attvalues>
+      </node>
+      <node id="AGID00113" label="AGID00113">
+        <attvalues>
+          <attvalue for="0" value="0.05454545454545454" />
+        </attvalues>
+      </node>
+      <node id="AGID00152" label="AGID00152">
+        <attvalues>
+          <attvalue for="0" value="0.13981191222570533" />
+        </attvalues>
+      </node>
+      <node id="AGID02136" label="AGID02136">
+        <attvalues>
+          <attvalue for="0" value="0.1061128526645768" />
+        </attvalues>
+      </node>
+      <node id="AGID00154" label="AGID00154">
+        <attvalues>
+          <attvalue for="0" value="0.15078369905956113" />
+        </attvalues>
+      </node>
+      <node id="AGID00031" label="AGID00031">
+        <attvalues>
+          <attvalue for="0" value="0.1670846394984326" />
+        </attvalues>
+      </node>
+      <node id="AGID00044" label="AGID00044">
+        <attvalues>
+          <attvalue for="0" value="0.12884012539184952" />
+        </attvalues>
+      </node>
+      <node id="AGID00086" label="AGID00086">
+        <attvalues>
+          <attvalue for="0" value="0.10626959247648902" />
+        </attvalues>
+      </node>
+      <node id="AGID00143" label="AGID00143">
+        <attvalues>
+          <attvalue for="0" value="0.12946708463949844" />
+        </attvalues>
+      </node>
+      <node id="AGID00490" label="AGID00490">
+        <attvalues>
+          <attvalue for="0" value="0.14482758620689656" />
+        </attvalues>
+      </node>
+      <node id="AGID00164" label="AGID00164">
+        <attvalues>
+          <attvalue for="0" value="0.1250783699059561" />
+        </attvalues>
+      </node>
+      <node id="AGID00161" label="AGID00161">
+        <attvalues>
+          <attvalue for="0" value="0.08244514106583072" />
+        </attvalues>
+      </node>
+      <node id="AGID00089" label="AGID00089">
+        <attvalues>
+          <attvalue for="0" value="0.08605015673981191" />
+        </attvalues>
+      </node>
+      <node id="AGID00165" label="AGID00165">
+        <attvalues>
+          <attvalue for="0" value="0.15752351097178682" />
+        </attvalues>
+      </node>
+      <node id="AGID02157" label="AGID02157">
+        <attvalues>
+          <attvalue for="0" value="0.10893416927899686" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AGID00020" target="AGID00101" id="0" weight="0.2153605015673981">
+        <attvalues>
+          <attvalue for="1" value="0.00048233605219732685" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00265" id="1" weight="0.22241379310344828">
+        <attvalues>
+          <attvalue for="1" value="0.00027735670022172975" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00527" id="2" weight="0.22241379310344828">
+        <attvalues>
+          <attvalue for="1" value="0.00027735670022172975" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00024" id="3" weight="0.258307210031348">
+        <attvalues>
+          <attvalue for="1" value="1.2506350317393702e-05" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00437" id="4" weight="0.2170846394984326">
+        <attvalues>
+          <attvalue for="1" value="0.00042211738197744247" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00104" id="5" weight="0.23025078369905957">
+        <attvalues>
+          <attvalue for="1" value="0.00014689641771966367" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00078" id="6" weight="0.21567398119122258">
+        <attvalues>
+          <attvalue for="1" value="0.00047078555122042904" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00171" id="7" weight="0.24341692789968652">
+        <attvalues>
+          <attvalue for="1" value="4.7920748709684036e-05" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00056" id="8" weight="0.22648902821316613">
+        <attvalues>
+          <attvalue for="1" value="0.0001998538766312647" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00124" id="9" weight="0.2175548589341693">
+        <attvalues>
+          <attvalue for="1" value="0.0004068697461104828" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00020" target="AGID00149" id="10" weight="0.22899686520376175">
+        <attvalues>
+          <attvalue for="1" value="0.00016280396822123574" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00005" target="AGID00008" id="11" weight="0.22163009404388714">
+        <attvalues>
+          <attvalue for="1" value="0.00029531956950085576" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00005" target="AGID00014" id="12" weight="0.21927899686520377">
+        <attvalues>
+          <attvalue for="1" value="0.0003555981041341892" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00005" target="AGID00502" id="13" weight="0.2175548589341693">
+        <attvalues>
+          <attvalue for="1" value="0.0004068697461104828" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00005" target="AGID02154" id="14" weight="0.22225705329153606">
+        <attvalues>
+          <attvalue for="1" value="0.00028085502692892176" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00005" target="AGID00159" id="15" weight="0.22523510971786834">
+        <attvalues>
+          <attvalue for="1" value="0.00022119971195508857" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00186" id="16" weight="0.2175548589341693">
+        <attvalues>
+          <attvalue for="1" value="0.0004068697461104828" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00194" id="17" weight="0.24043887147335424">
+        <attvalues>
+          <attvalue for="1" value="6.207819415592908e-05" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00154" id="18" weight="0.22272727272727272">
+        <attvalues>
+          <attvalue for="1" value="0.0002705172333171705" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00086" id="19" weight="0.21739811912225707">
+        <attvalues>
+          <attvalue for="1" value="0.0004118947029181739" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00143" id="20" weight="0.2175548589341693">
+        <attvalues>
+          <attvalue for="1" value="0.0004068697461104828" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00490" id="21" weight="0.220846394984326">
+        <attvalues>
+          <attvalue for="1" value="0.0003142180635740015" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00164" id="22" weight="0.21614420062695924">
+        <attvalues>
+          <attvalue for="1" value="0.00045401963801684883" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00161" id="23" weight="0.21551724137931033">
+        <attvalues>
+          <attvalue for="1" value="0.00047652309064697215" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02154" target="AGID00089" id="24" weight="0.21927899686520377">
+        <attvalues>
+          <attvalue for="1" value="0.0003555981041341892" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00007" target="AGID00437" id="25" weight="0.21739811912225707">
+        <attvalues>
+          <attvalue for="1" value="0.0004118947029181739" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00437" target="AGID00105" id="26" weight="0.22460815047021943">
+        <attvalues>
+          <attvalue for="1" value="0.00023263369681918581" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00437" target="AGID00058" id="27" weight="0.2377742946708464">
+        <attvalues>
+          <attvalue for="1" value="7.80750819483499e-05" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00437" target="AGID00113" id="28" weight="0.22601880877742947">
+        <attvalues>
+          <attvalue for="1" value="0.00020768434919496122" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00437" target="AGID02194" id="29" weight="0.22601880877742947">
+        <attvalues>
+          <attvalue for="1" value="0.00020768434919496122" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00052" target="AGID02191" id="30" weight="0.21724137931034482">
+        <attvalues>
+          <attvalue for="1" value="0.0004169785857977725" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02191" target="AGID02194" id="31" weight="0.21833855799373042">
+        <attvalues>
+          <attvalue for="1" value="0.0003827239526835512" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00015" target="AGID00024" id="32" weight="0.22429467084639498">
+        <attvalues>
+          <attvalue for="1" value="0.000238618491820297" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00024" target="AGID00018" id="33" weight="0.240282131661442">
+        <attvalues>
+          <attvalue for="1" value="6.293526141512167e-05" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00152" target="AGID02136" id="34" weight="0.24153605015673982">
+        <attvalues>
+          <attvalue for="1" value="5.6481988172501336e-05" />
+        </attvalues>
+      </edge>
+      <edge source="AGID02136" target="AGID00154" id="35" weight="0.22758620689655173">
+        <attvalues>
+          <attvalue for="1" value="0.00018276813892984526" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00031" target="AGID00044" id="36" weight="0.21692789968652038">
+        <attvalues>
+          <attvalue for="1" value="0.00042730769757039406" />
+        </attvalues>
+      </edge>
+      <edge source="AGID00165" target="AGID02157" id="37" weight="0.21692789968652038">
+        <attvalues>
+          <attvalue for="1" value="0.00042730769757039406" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
